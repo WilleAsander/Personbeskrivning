@@ -1,4 +1,4 @@
 baseURL = "https://unruffled-albattani-ffbd50.netlify.com/"
 languageCode = "en-us"
 title = "Wilhelm Åsander"
-theme = "ananke"
+theme = "hugoBase"
