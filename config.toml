@@ -2,3 +2,17 @@ baseURL = "https://unruffled-albattani-ffbd50.netlify.com/"
 languageCode = "en-us"
 title = "Wilhelm Åsander"
 theme = "hugoBase"
+
+[params]
+  description = "I <3 making web site"
+  mainIcon = "/img/hugo.png"
+
+[[params.social]]
+    title = "twitter"
+    url = "https://twitter.com/SBootstrap"
+[[params.social]]
+    title = "github"
+    url = "https://github.com/IronSummitMedia/startbootstrap"
+[[params.social]]
+    title = "linkedin"
+    url = ""
